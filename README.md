@@ -87,7 +87,7 @@
       <img src="https://img.shields.io/badge/Game%20AI-FF6B00?style=flat-square" alt="Game AI" />
       <img src="https://img.shields.io/badge/3D%20Optimization-FF4785?style=flat-square" alt="Optimization" />
     </p>
-
+  </details>
 </p>
 
 <p align="center">
