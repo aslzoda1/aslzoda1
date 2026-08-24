@@ -131,10 +131,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aslzoda1&theme=tokyonight" alt="GitHub Streak" />
   <br /><br />
   
-  <!-- WakaTime Statistikasi (GitHub uchun maxsus svg) -->
-  <img src="https://wakatime.com/share/@aslzoda1/9f8e5d6c-7b4a-4e2a-8c3d-5f1a9b8c7d6e.svg" width="49%" alt="WakaTime Stats" />
-  <img src="https://wakatime.com/share/@aslzoda1/a1b2c3d4-e5f6-7890-1234-567890abcdef.svg" width="49%" alt="WakaTime Languages" />
+  <!-- WakaTime Statistikasi -->
+  <a href="https://wakatime.com">
+    <img src="https://wakatime.com/share/@aslzoda1/795fd7de-4849-42cb-8aef-7f1d5fea07c3.png" width="80%" alt="WakaTime Stats" />
+  </a>
 </div>
-
----
-
